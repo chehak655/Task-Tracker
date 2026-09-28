@@ -1,16 +1,16 @@
-# TickTheTask
+# TaskTracker
 
-TickTheTask is a full-stack task-management application to help organize priorities, deadlines, schedules and task progress via a React web interface and a FastAPI backend.
+TaskTracker is a full-stack task-management application to help organize priorities, deadlines, schedules and task progress via a React web interface and a FastAPI backend.
 ---
 
 ## Overview
 
-TickTheTask backend is built utilizing the FastAPI framework, while also adopting a modular architecture that separates routing, business logic, database access, validation, and security-related functionality.
+TaskTracker backend is built utilizing the FastAPI framework, while also adopting a modular architecture that separates routing, business logic, database access, validation, and security-related functionality.
 
 ## Project Structure
 
 ```text
-TickTheTask/
+TaskTracker/
 ├── .github/
 │   └── workflows/          # GitHub Actions CI/CD workflows
 ├── backend/                # FastAPI Python backend
