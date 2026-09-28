@@ -35,7 +35,7 @@ TaskTracker/
 
 ## Live Demo
 
-Web application: [https://chehak655.github.io/TickTheTask/](https://chehak655.github.io/TickTheTask/)
+Web application: https://chehak655.github.io/Task-Tracker/
 ---
 
 ## Visuals
